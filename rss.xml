@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Andrewkaempfer]]></title>
         <description><![CDATA[Andrewkaempfer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andrewkaempfer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 16:10:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 16:10:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrewkaempfer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed7a46e6-0eff-46e3-b13e-dd0cf01fe239.gif">]]></description>
-            <link>undefinedandrew-from-hulus-deadbeat/index.html</link>
+            <link>https://thegrid.ai/andrewkaempfer/andrew-from-hulus-deadbeat/index.html</link>
             <guid isPermaLink="false">cafd6dd6-270e-434a-a2b3-a07b9262477c</guid>
-            <pubDate>Wed, 11 May 2016 16:10:22 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 16:10:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Andrew from Hulu's DEADBEAT. "
-datePublished: '2016-05-11T16:10:22.522Z'
-dateModified: '2016-05-11T16:09:51.963Z'
+datePublished: '2016-05-11T16:10:44.675Z'
+dateModified: '2016-05-11T16:10:27.028Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-andrew-from-hulus-deadbeat.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-andrew-from-hulus-deadbeat.md
 url: andrew-from-hulus-deadbeat/index.html
 _type: Article
 
